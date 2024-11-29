@@ -20,4 +20,4 @@
 ![extending-a-theme](/05.png)
 ![extending-a-theme](/06.png)
 ![extending-a-theme](/07.png)
-![extending-a-theme](/xiaomagejpg)
+![extending-a-theme](/xiaomage.jpg)
